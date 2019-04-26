@@ -1,0 +1,33 @@
+{
+  "version": 3,
+  "sources": [
+    "/home/travis/build/cboulanger/eventrecorder/source/class/cboulanger/eventrecorder/theme/Theme.js"
+  ],
+  "names": [
+    "qx",
+    "Bootstrap",
+    "executePendingDefers",
+    "$$dbClassInfo",
+    "Theme",
+    "define",
+    "meta",
+    "color",
+    "cboulanger",
+    "eventrecorder",
+    "theme",
+    "Color",
+    "decoration",
+    "Decoration",
+    "font",
+    "Font",
+    "icon",
+    "dialog",
+    "Tango",
+    "appearance",
+    "Appearance"
+  ],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;;;;;AAAAA,EAAAA,EAAE,CAACC,SAAH,CAAaC,oBAAb,CAAkCC,aAAlC;AAUAH,EAAAA,EAAE,CAACI,KAAH,CAASC,MAAT,CAAgB,sCAAhB,EAAwD;AACtDC,IAAAA,IAAI,EAAG;AACLC,MAAAA,KAAK,EAAGC,UAAU,CAACC,aAAX,CAAyBC,KAAzB,CAA+BC,KADlC;AAELC,MAAAA,UAAU,EAAGJ,UAAU,CAACC,aAAX,CAAyBC,KAAzB,CAA+BG,UAFvC;AAGLC,MAAAA,IAAI,EAAGN,UAAU,CAACC,aAAX,CAAyBC,KAAzB,CAA+BK,IAHjC;AAILC,MAAAA,IAAI,EAAGC,MAAM,CAACP,KAAP,CAAaM,IAAb,CAAkBE,KAJpB;AAKLC,MAAAA,UAAU,EAAGX,UAAU,CAACC,aAAX,CAAyBC,KAAzB,CAA+BU;AALvC;AAD+C,GAAxD,C;AAVAZ,EAAAA,UAAU,CAACC,aAAX,CAAyBC,KAAzB,CAA+BN,KAA/B,CAAqCD,aAArC,GAAqDA,aAArD",
+  "sourcesContent": [
+    "/* ************************************************************************\n\n   Copyright: 2018 Christian Boulanger\n\n   License: MIT license\n\n   Authors: Christian Boulanger (cboulanger) info@bibliograph.org\n\n************************************************************************ */\n\nqx.Theme.define(\"cboulanger.eventrecorder.theme.Theme\", {\n  meta : {\n    color : cboulanger.eventrecorder.theme.Color,\n    decoration : cboulanger.eventrecorder.theme.Decoration,\n    font : cboulanger.eventrecorder.theme.Font,\n    icon : dialog.theme.icon.Tango,\n    appearance : cboulanger.eventrecorder.theme.Appearance\n  }\n});\n"
+  ]
+}

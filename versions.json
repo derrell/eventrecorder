@@ -1,0 +1,14 @@
+{
+  "compiler": "0.3.0-alpha.20190424-1916",
+  "libraries": {
+    "qxl.versionlabel": "0.1.2",
+    "qookery.ace": "0.6.0",
+    "qookery": "0.6.0",
+    "cboulanger.eventrecorder": "0.9.6",
+    "dialog": "2.0.1",
+    "qxl.apiviewer": "0.1.15",
+    "qxl.widgetbrowser": "0.1.7",
+    "qxl.formdemo": "0.1.2",
+    "qx": "6.0.0-alpha-20181226-a3c2b0b"
+  }
+}
